@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: a9125dade9e722b4e814d61d7c40d632
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: D-determination (RUS BY LYAJKA)
+  fontNames:
+  - D-determination (RUS BY LYAJKA)
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a4a64f66b84f77946b906125bd29ab43, type: 3}
+  - {fileID: 12800000, guid: 37609876231a6904abc3410880c2a64a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
